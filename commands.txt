@@ -1,0 +1,40 @@
+    1  c:
+    2  cd c:
+    3  mkdir mywork
+    4  ls
+    5  cd mywork
+    6  pwd
+    7  pwd
+    8  ifconfig
+    9  ipconfig
+   10  cd mywork
+   11  ls
+   12  git config --list
+   13  git config -- global
+   14  git config --global user.name "nancynama123"
+   15  git config --list
+   16  git config --global user.email "nancy.nama@gmail.com"
+   17  git config --list
+   18  git init
+   19  git clone https://github.com/nancynama123/MyFirstProject.git
+   20  ls
+   21  cd MyFirstProject/
+   22  ls
+   23  ls -a
+   24  ls -l
+   25  cat nnama
+   26  git status
+   27  git add
+   28  git add nnama
+   29  git status
+   30  git commit -a "My first checkin"
+   31  git commit -m "My first checkin"
+   32  git status
+   33  git push origin master
+   34  git status
+   35  git pull origin master
+   36  cat nnama
+   37  vim nnama
+   38  cat nnama
+   39  History
+   
