@@ -1,4 +1,4 @@
-    1  c:
+c    1  c:
     2  cd c:
     3  mkdir mywork
     4  ls
