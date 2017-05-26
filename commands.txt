@@ -38,3 +38,5 @@ c    1  c:
    38  cat nnama
    39  History
    
+create a new file -> vim test.txt
+esc+: for exiting
